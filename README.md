@@ -1,7 +1,7 @@
 # TODO Application with Local Storage - Certification Project
 
 ## Overview
-This project is part of the certification requirements. In this project, I built a TODO application using HTML, CSS, and JavaScript. The main goal is to explore the power of **local storage** in modern web applications and learn how to persist data across sessions.
+This project is part of the certification requirements. In this project, I built a Todo Application using HTML, CSS, and JavaScript. The main goal is to explore the power of **local storage** in modern web applications and learn how to persist data across sessions.
 
 ## Project Details
 - **Project Type**: Task Management Tool
@@ -29,6 +29,6 @@ To try the TODO Application:
 
 Or use it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Todo-app/)
 
 ## Stay organized and master local storage like a pro! 📋💾🧠
