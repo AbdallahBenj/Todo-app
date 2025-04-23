@@ -29,6 +29,6 @@ To try the TODO Application:
 
 Or use it live here:
 
-🔗 [##Live Demo](https://abdallahbenj.github.io/Todo-app/)
+🔗 ##[Live Demo](https://abdallahbenj.github.io/Todo-app/)
 
 ## Stay organized and master local storage like a pro! 📋💾🧠
